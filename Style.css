@@ -1,0 +1,135 @@
+body{
+
+  text-align: center;
+
+  margin: 0;
+
+  -webkit-box-sizing: border-box;
+
+  -moz-box-sizing: border-box;
+
+  box-sizing: border-box;
+
+  font-family: Arial, Helvetica, sans-serif;
+
+  background-color: oldlace;
+
+  font-size: 1rem;
+
+}
+
+header {
+
+  background-color: lightgoldenrodyellow;
+
+  padding: 10px 10px 0 10px;
+
+}
+
+h1{
+
+  color: blue;
+
+  margin-top: 0;
+
+}
+
+main{
+
+  width: 90%;
+
+  padding: 10px 5%;
+
+  text-align: left;
+
+  line-height: 2rem;
+
+}
+
+h3 {
+
+  margin-top: 0;
+
+}
+
+table{
+
+  width: 100%;
+
+  margin-top: 20px;
+
+  margin-bottom: 20px;
+
+}
+
+.item-for-dates{
+
+  width: 70%;
+
+  padding-right: 0;
+
+}
+
+.dates{
+
+  text-align: right;
+
+}
+
+.referees {
+
+  display: flex;
+
+  flex-wrap: wrap;
+
+  flex-direction: row;
+
+  justify-content: space-between;
+
+}
+
+.flex-item{
+
+  flex-shrink: 1;
+
+  flex-grow: 1;
+
+  flex-basis: 250px;
+
+}
+
+footer{
+
+  text-align: center;
+
+  background-color: lightgoldenrodyellow;
+
+  position: relative;
+
+  bottom: 0;
+
+  padding-bottom: 10px;
+
+  width: 100%
+
+}
+
+.account{
+
+  margin: 0 5%;
+
+  text-decoration: none;
+
+}
+
+@media screen and (min-width: 768px){
+
+  footer{
+
+    background-color: oldlace;
+
+    width: 100%;
+
+  }
+
+}
