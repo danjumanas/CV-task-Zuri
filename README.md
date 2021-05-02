@@ -1,3 +1,3 @@
-# danjumanas.github.io
+# my CV task Zuri
 My CV
-github pages link: https://danjumanas.github.io/
+
